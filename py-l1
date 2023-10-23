@@ -1,0 +1,28 @@
+print("Hello Amar")
+
+---------------------
+
+
+print("""Name: Monty Python
+Address: 12 Anaconda Avenue
+Phone: 0123456789""")
+
+print("Name: Monty Python \nAddress: 12 Anaconda Avenue\n Phone: 0123456789")
+
+-----------------------
+
+print(3)
+print(7 + 3)
+print(10 / 2)
+print(10 * 10)
+
+------------------------
+
+print("Hello " + "Bob")
+print("Hello" * 5)
+print("niggers" * 10)
+
+------------------------
+
+
+
